@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+- 🔭 I’m a designer/developer 🖌/💻
+- 💬 Ask me about art, design, and front-end 
+- 📫 Reach me at hello@sathya.design
+- 😄 Pronouns are he/him
+
+
+
+
+
+
+
 <!--
 **sathya716/sathya716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
