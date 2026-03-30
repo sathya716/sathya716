@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m a designer/developer 🖌/💻
-- 💬 Ask me about art, design, and front-end 
 - 📫 Reach me at hello@sathya.design
 - 😄 Pronouns are he/him
+- 🌱 I’m currently learning Full stack
 
 
 
