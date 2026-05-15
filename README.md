@@ -3,8 +3,6 @@
 - 🔭 I’m a designer/developer 🖌/💻
 - 📫 Reach me at hello@sathya.design
 - 😄 Pronouns are he/him
-- 🌱 I’m currently learning Full stack
-
 
 
 
